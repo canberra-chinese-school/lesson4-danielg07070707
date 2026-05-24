@@ -1,6 +1,22 @@
 # Edit this file and commit changes to submit your homework.
 
-print("hello")
+# Task 1: write a program that asks the user "What is your animal" for an input, and then prints
+# "woof" if the input is a dog
+# "meow" if the input is a cat
+# "oink" if the input is a pig
+# "chirp" if the input is a bird
+
+animal = input("What is your animal?")
+# TO DO
+
+
+
+
+# Task 2: write a program that asks the user for a number, and checks if it is negative
+number_input = input("Enter your number:")
+# TO DO
+
+
 
 
 
